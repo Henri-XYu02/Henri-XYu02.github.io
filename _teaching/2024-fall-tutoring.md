@@ -1,6 +1,6 @@
 ---
 title: "CSE152A Intro to Computer Vision"
-collection: teaching
+collection: IA
 type: "Tutoring"
 permalink: "https://catalog.ucsd.edu/courses/CSE.html"
 venue: "UCSD, CSE"
