@@ -31,7 +31,6 @@ Skills
 ======
 * Programming Language: Python, C/C++, SQL, minor JAVA, HTML/CSS/JS
 * Some experience with Linux operations, Docker, Kubernetes
-* Machine Learning: neural models, CV: 3D reconstruction, other basic knowledge, NLP: basic knowledge, Reinforcement Learning: basic knowledge
 * Knowledge in Machine Learning
   * Most neural models and classical models
   * CV: 3D reconstruction, other basic knowledge
